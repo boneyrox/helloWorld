@@ -12,3 +12,4 @@ for i in range(4):
     t.up() 
     t.sety((r * i)*(-1)) 
     t.down() 
+print("Boney here!")
